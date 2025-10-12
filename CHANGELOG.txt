@@ -1,4 +1,7 @@
 ﻿# BPCritterEmote
+version 1.11.2.05.01
+update to WoW version 11.2.5
+
 Version 1.11.2.00.01
 Update to WoW version 11.2
 added missing pet

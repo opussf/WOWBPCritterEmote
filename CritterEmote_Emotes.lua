@@ -24,7 +24,7 @@ ABSENT = {
   chicken = { "pecks at your feet.", },
   ["Deathy"] = { "starts a little fire.", },
   ["Lil' Deathwing"] = { "starts a little fire.", },
-  ["Lil' K.T."] = { "is used to dealing with absent minded zombies.", },
+  ["Lil' K.T."] = { "is used to dealing with absent-minded zombies.", },
 },
 AGREE = {
 	default = { "nods.", },
@@ -2333,7 +2333,7 @@ Random = {
 		"sings, \"It's beginning to look a lot like Winter Veil, here and everywhere.\"",
 		"sings, \"Oh the weather outside is frightful, but inside it's so delightful.\"",
 		"sings, \"Don't sit under the Winter Veil tree with anyone else but me.\"",
-		"sings, \"Have yourself a Merry little Winter Veil, may your heart be light. From now on all your troubles will be out of sight.\"",
+		"sings, \"Have yourself a Merry little Winter Veil, may your heart be light. From now on, all your troubles will be out of sight.\"",
 		"sings, \"Here comes Greatfather, here comes Greatfather, riding down Winter Veil Lane.\"",
 		"sings, \"Jingle bell, jingle bell, jingle bell rock.  Jingle bells swing and jingle bells ring, snowing and blowing up bushels of fun, now that Winter Veil has begun.\"",
 	},
@@ -2396,7 +2396,7 @@ SCARED = {
 		"wiggles his fingers and taunts you with ghost noises.",
 		},
   ["Lil' Ragnaros"] = {   
-		"flexes his mucles before you.",
+		"flexes his muscles before you.",
 		},
 },
 SCOFF = {
@@ -2468,7 +2468,7 @@ SEARCH = {
 SEXY = {
 	default = nil,
   ["Gregarious Grell"] = { "looks rather hot with earrings.", },    
-  ["Lil' K.T."] = { "is rather devilish isn't he? So evil, it's sexy!", },
+  ["Lil' K.T."] = { "is rather devilish, isn't he? So evil, it's sexy!", },
   ["Lil' Ragnaros"] = { "is so hot, not even lava compares.", },
 },
 SHAKE = {
@@ -2586,7 +2586,7 @@ SILENCE = {
 		"goes into standby mode.", 
 	},
     ["Gregarious Grell"] = { 
-			"Has a Firebolt interrupted.", 
+			"has a Firebolt interrupted.", 
     },
 	["Lil' K.T."] = {
 		"has a Frostbolt interrupted.",
@@ -2653,7 +2653,7 @@ SING = {
 		"sings, \"Jingle bell, jingle bell, jingle bell rock.  Jingle bells swing and jingle bells ring, snowing and blowing up bushels of fun, now the jingle hop has begun.\"",
 	},
     ["Gregarious Grell"] = { 
-			"sings, \"snroh htiw canine a ,sevooh htiw canine a, snroh htiw canine a ,sevooh htiw canine A.\"", 
+			"sings, \"snroh htiw eninac a, sevooh htiw eninac a, snroh htiw eninac a, sevooh htiw eninac A.\"", 
     },
 	["Grunty"] = {  
 		"sings, \"I am more than a fish. I am more than a man. Death will rise from the tide. I am murloc! MMMRRRGGGLLL.\"",
@@ -2667,7 +2667,7 @@ SING = {
 	["Lil' Ragnaros"] = { "sings, \"we didn\'t start the fire, it was always burning, since the world's been turning.\"", },
     ["Lil' Smoky"] = { "sings, \"I\'m a sex machine ready to reload like an atom bomb about to oh oh oh oh explode! I'm burning through the sky, yeah! 200 degrees, that\'s why they call me Mr. Fahrenheit.\"", },
 	["Mini Diablo"] = {  
-		"sings, \"I wanna be yours pretty baby, yours and yours alone. I\'m here to tell ya honey that I\'m bad to the bone. Bad to the bone. B-b-b-bad.\"",
+		"sings, \"I wanna be yours, pretty baby, yours and yours alone. I\'m here to tell ya, honey, that I\'m bad to the bone. Bad to the bone. B-b-b-bad.\"",
 	 },
 	["Mini Tyrael"] = {  
 		"sings, \"You just call on me brother when you need a hand. We all need somebody to lean on. I just might have a problem that you\'ll understand. We all need somebody to lean on.\"",
@@ -2679,10 +2679,10 @@ SING = {
 		"sings, \"War, huh, yeah! What is it good for! Absolutely nothing! Say it again, you all.\"",
 		},
 	["Peddlefeet"] = {  
-		"sings, \"Don\'t you want somebody to love. Don\'t you need somebody to love. Wouldn\'t you love somebody to love. You better find somebody to love, love, love.\"",
+		"sings, \"Don\'t you want somebody to love. Don\'t you need somebody to love? Wouldn\'t you love somebody to love? You'd better find somebody to love, love, love.\"",
 	},
 	["Scorchling"] = {  
-		"sings, \"But oh it\'s too hot, too hot lady. I gotta run for shelter, I gotta run for shade. It\'s too hot, too hot lady. Gotta cool this anger. What a mess we made.\"",
+		"sings, \"But oh it\'s too hot, too hot, lady. I gotta run for shelter, I gotta run for shade. It\'s too hot, too hot, lady. Gotta cool this anger. What a mess we made.\"",
 					},
 	["Teldrassil Sproutling"] = {  
 		"sings, \"But nothing ever happens and I wonder, I wonder how, I wonder why, yesterday you told me about the blue, blue sky and all that I can see is just another lemon tree.\"",
@@ -2706,10 +2706,10 @@ SLAP = {
 		"cringes.",
 	},
   flying_insect = {
-		"is swatted down. Mayday! Mayday!.", 
+		"is swatted down. Mayday! Mayday!", 
 		},
    ["Gregarious Grell"] = {
-		 "is hit for 3 Physical.", 
+		 "is hit for 3 damage.", 
 		 },
 	 ["Lil' K.T."] = {
 		 "parries your attack.",
@@ -2791,7 +2791,7 @@ SPIT = {
 	humanoid = { "insults you and spits back.", },
 	ooze = { "combines the spit into its slimy form and looks pleased. Ew!", },
     ["Gregarious Grell"] = { "yells, \"THIS WAS NOT IN MY CONTRACT!\"", },
-	["Lil' K.T."] = { "snaps off the spit that froze on contact and glares menancingly at you.", },
+	["Lil' K.T."] = { "snaps off the spit that froze on contact and glares menacingly at you.", },
     ["Lil' Ragnaros"] = { "\"Fall to your knees, mortal! This ends now!\"", },
 },
 SQUEAL = {
@@ -2826,7 +2826,7 @@ SURPRISED = {
 SURRENDER = {
 	default = nil,
  ["Gregarious Grell"] = { 
-	"screams, \"FINALLY! Now I am master!\"", 
+	"screams, \"FINALLY! Now I am Master!\"", 
     },    
  ["Lil' K.T."] = {  
 	"tells you to swear your allegiance to him.",
@@ -2906,20 +2906,20 @@ THINK = {
 },
 THIRSTY = {
 	default = {
-		"suggests a nice refreshing beer.",
-        "suggests an ice cold can of redbull.",
+		"suggests a nice, refreshing beer.",
+        "suggests an ice-cold can of an energy drink.",
 	},
 	feline = {
 		"suggests a nice glass of milk.",
 	},
 	reptile = {
-		"suggests a nice glass of milk.",
+		"suggests a nice glass of fruit juice.",
 	},
-	["Warbot"] = {  "suggests a nice refreshing Mountain Dew.",
+	["Warbot"] = {  "suggests a nice, refreshing can of oil.",
 	},
 	["Ethereal Soul-Trader"] = {  "grins and tells you, \"Of course you may have a drink, for the right price.\"", 
 	},	
-	["Gregarious Grell"] = { "reminds you to squeeze Grell Moss for liquid.", 
+	["Gregarious Grell"] = { "reminds you to squeeze grell moss for liquid.", 
     },
     ["Lil' K.T."] = {  "picked something up from Illidan. \"You are not prepared!\"",
 		},
@@ -2937,7 +2937,7 @@ THREATEN = {
 			"shouts, \"No master! %t has children!\"", 
     },
     ["Lil' Ragnaros"] = {
-			"come forth, my servants, defend your master!",
+			"Come forth, my servants, defend your master!",
 		},
 	["Lil' K.T."] = {
 		"is now taunt immune!",
@@ -2966,7 +2966,7 @@ TIRED = {
 	feline = { "is already taking a feline nap.", 
 	  },
     ["Gregarious Grell"] = {
-			"jumps up and down like a a bundle of energy.", 
+			"jumps up and down, a crazy bundle of energy.", 
     },
     ["Lil' Ragnaros"] = {
 			"screams, \"NO, NOOOO! This was to be my hour of triumph!\"",
@@ -3021,7 +3021,6 @@ Target = {
 		"runs under %t's feet.",
 		"loves %t.",
 		"dislikes %t.",
-		"says \"What is it I see? It's a %t\".",
 		"thinks %t is cute.",
 		"thinks %t should get a haircut.",
 		"loves %t.",
@@ -3049,7 +3048,7 @@ Target = {
 		"bounces up and down in front of %t.",
 		"bows before %t.",
 		"applauds at %t. Bravo!",
-		"let's %t know you'll be right back.",
+		"lets %t know you'll be right back.",
 		"burps rudely in %t's face.",
 		"waves goodbye to %t. Farewell!",
 		"cackles maniacally at %t.",
@@ -3077,7 +3076,7 @@ Target = {
 		"bonks %t on the noggin. Doh!",
 		"threatens %t with the wrath of doom.",
 		"raises a drink to %t. Cheers!",
-		"looks at %t and begin to drool.",
+		"looks at %t and begins to drool.",
 		"ducks behind %t.",
 		"begins to eat in front of %t.",
 		"talks excitedly with %t.",
@@ -3141,14 +3140,14 @@ Target = {
 		"drops your trousers and moon %t.",
 		"tells %t NO. Not going to happen.",
 		"nods at %t.",
-		"picks your nose and show it to %t.",
+		"picks your nose and shows it to %t.",
 		"takes one look at %t and panic.",
 		"raises a drink to %t. Cheers!",
 		"gently pat %t.",
 		"peers at %t searchingly.",
 		"grovels before %t like a subservient peon.",
-		"shoos %t away. Be gone pest!",
-		"picks your nose and show it to %t.",
+		"shoos %t away. Be gone, pest!",
+		"picks its nose and shows it to %t.",
 		"looks down upon %t with pity.",
 		"is hungry. Maybe %t has some food...",
 		"pleads with %t.",
@@ -3185,7 +3184,7 @@ Target = {
 		"smells %t. Wow, someone stinks!",
 		"smiles at %t.",
 		"smirks slyly at %t.",
-		"bares your teeth and snarl at %t.",
+		"bares its teeth and snarls at %t.",
 		"snickers at %t.",
 		"sniffs %t.",
 		"snubs %t.",
@@ -3197,7 +3196,7 @@ Target = {
 		"stares %t down.",
 		"smells %t. Wow, someone stinks!",
 		"flexes at %t. Oooooh so strong!",
-		"struts around %t. Cluck, Cluck, Chicken!",
+		"struts around %t. Cluck, cluck, Chicken!",
 		"is surprised by %t\'s actions.",
 		"surrenders before %t. Such is the agony of defeat...",
 		"wants to talk things over with %t",
@@ -3215,8 +3214,7 @@ Target = {
 		"votes %t's motion.",
 		"basks in the glory of victory with %t.",
 		"plays the world's smallest violin for %t.",
-		"looks at %t and raise your hand.",
-		"asks %t to wait.",
+		"looks sheepishly at %t.",
 		"waves at %t.",
 		"cries on %t\'s shoulder.",
 		"welcomes %t.",
@@ -3247,7 +3245,6 @@ Target = {
 	reptile = {
 		"hisses at %t.",
 		"wraps itself around %t\'s leg.",
-		"hisses at %t.",
 		"looks at %t for some food.",
 	},
 	bird = {
@@ -3357,7 +3354,7 @@ WORK = {
 		"laughs diabolically. Now its evil plans will be set more quickly in motion.",
 	},	
 	inanimate = {  
-		"works with you, synergy!", 
+		"works with you. Teamwork is the key!", 
 		},					 
 	["Lil' K.T."] = {  
 		"reminds you that you work for him, not with him.",
@@ -3368,9 +3365,9 @@ YAWN = {
     },
 }
 
--- Special thanks to Warcraftpets.com for categories. These have more to do with nature then with pet categories.
+-- Special thanks to Warcraftpets.com for categories. These have more to do with nature than with pet categories.
 -- aquatic, bat, beast, bird, feline, chicken, crab, croc, dino, dragon, dragonhawk, elephant, elemental, evil, flying, flying_insect, frog,
---  humanoid, inanimate, insect, mech, murloc, ooze, plant, rabbit, reptile, snake, turtle, 
+--  humanoid, inanimate, insect, mech, murloc, ooze, plant, rabbit, reptile, snake, turtle, feline, canine 
 --how to update: see K:\extra\WOW Lua\API Data\Pet Data\How to from API to lua.txt
 
 CritterEmote_Personalities = {
@@ -5414,4 +5411,5 @@ CritterEmote_Personalities = {
     ["Zooey Snake"] = "reptile",
     ["Zoom"] = "snail",
     ["Zur'aj the Depleted"] = "magic",
+
 }

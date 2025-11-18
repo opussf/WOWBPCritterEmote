@@ -3,7 +3,7 @@
 ## Author: OpusSF
 ## X-Contributors: Acidfrost59 (emotes, updates), Fysker (IT)
 ## X-PreviousAuthor: Zompter (original), seegeen00 (previous)
-## Version: 2.0-wow100205
+## Version: 2.0-wow110205
 ## IconTexture: Interface/Icons/Inv_pet_wingedlion
 ## LoadOnDemand: 0
 ## DefaultState: enabled

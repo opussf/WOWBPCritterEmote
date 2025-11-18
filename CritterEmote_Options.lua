@@ -1,4 +1,4 @@
--- CritterEmote_Options 2.0-wow110205-beta
+-- CritterEmote_Options 2.0-wow100205
 function CritterEmote.OptionsPanel_OnLoad(panel)
 	panel.name = CritterEmote.ADDONNAME
 	CritterEmoteOptionsFrame_Title:SetText(CritterEmote.ADDONNAME.." v"..CritterEmote.VERSION)
@@ -30,17 +30,18 @@ function CritterEmote.OptionsPanel_CheckButton_OnClick(self, tbl, option)
 end
 function CritterEmote.AddCategoryOptions()
 	local lastName = nil
-	for _, category in CritterEmote.Spairs(CritterEmote.Categories) do
+	for _, category in pairs(CritterEmote.Categories) do
 		local name = "$parent_Enable"..category
+		local displayName = CritterEmote[category.."_emotes"].name or category
 		local checkButton = CreateFrame("CheckButton", name, CritterEmoteOptionsFrame, "CritterEmoteOptionsCheckButtonTemplate")
 		checkButton:SetPoint("TOPLEFT", (lastName and lastName or "$parent_EmoteCategoriesHeader"), "BOTTOMLEFT")
-		checkButton.tooltip = string.format(CritterEmote.L["Toggle inclusion of %s emotes."], CritterEmote.L[category])
+		checkButton.tooltip = string.format(CritterEmote.L["Toggle inclusion of %s emotes."], displayName)
 		checkButton:SetScript("OnShow", function(self)
 			CritterEmote.OptionsPanel_CheckButton_OnLoad(
 				self,
 				CritterEmote_Variables.Categories,
 				category,
-				string.format(CritterEmote.L["%s emotes."], category)
+				string.format(CritterEmote.L["%s emotes."], displayName)
 			)
 		end)
 		checkButton:SetScript("OnClick", function(self)

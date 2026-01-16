@@ -1,3 +1,3 @@
-Changes since 2.1-wow110207..
+Changes since 2.1.1-wow110207..
 
-* 39a11a0 2026-01-12 21:07:40 -0800 -  (HEAD -> main, tag: 2.1-wow110207, origin/main, origin/HEAD, origin/CustomResponseEmotes, dev, CustomResponseEmotes) Stubs and workflows <opussf>
+* 0106f56 2026-01-16 14:56:12 -0800 -  (HEAD -> main, tag: 2.1.1-wow110207, origin/main, origin/HEAD, morris/main) New pets, new personalities <opussf>

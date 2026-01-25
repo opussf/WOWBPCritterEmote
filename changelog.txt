@@ -1,3 +1,5 @@
-Changes since 2.1-wow120000..
+Changes since 2.1.2-wow120000..
 
-* e60d2c2 2026-01-20 23:15:32 -0800 -  (HEAD -> main, tag: 2.1-wow120000, origin/main, origin/HEAD) 12.0.0 updates.   New pets yet to be given personalities <opussf>
+* 21196a4 2026-01-25 12:10:48 -0800 -  (HEAD -> main, tag: 2.1.2-wow120000, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
+* e9ffbce 2026-01-25 12:10:37 -0800 -  (dev) Merge branch '120000' into dev <opussf>
+* 13eca89 2026-01-25 12:09:46 -0800 -  (120000) Hook C_ChatInfo.PerformEmote <opussf>

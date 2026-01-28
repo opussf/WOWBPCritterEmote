@@ -1,4 +1,4 @@
--- CritterEmote_Options 2.1.2-wow120000
+-- CritterEmote_Options 2.2-wow120000
 function CritterEmote.OptionsPanel_OnLoad(panel)
 	panel.name = CritterEmote.ADDONNAME
 	CritterEmoteOptionsFrame_Title:SetText(CritterEmote.ADDONNAME.." v"..CritterEmote.VERSION)

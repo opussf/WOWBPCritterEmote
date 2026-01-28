@@ -1,5 +1,7 @@
-Changes since 2.1.2-wow120000..
+Changes since 2.2-wow120000..
 
-* 21196a4 2026-01-25 12:10:48 -0800 -  (HEAD -> main, tag: 2.1.2-wow120000, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
-* e9ffbce 2026-01-25 12:10:37 -0800 -  (dev) Merge branch '120000' into dev <opussf>
-* 13eca89 2026-01-25 12:09:46 -0800 -  (120000) Hook C_ChatInfo.PerformEmote <opussf>
+* fdda12d 2026-01-28 13:52:17 -0800 -  (HEAD -> main, tag: 2.2-wow120000, origin/main, origin/HEAD, morris/main) Merge branch 'dev' into main <opussf>
+* 1f52a7e 2026-01-28 13:46:43 -0800 -  (origin/dev, dev) Merge pull request #4 from opussf/petTarget <opussf>
+* cb20774 2026-01-28 13:41:34 -0800 -  Describe feature. <opussf>
+* 510bccf 2026-01-28 13:01:26 -0800 -  Merge branch 'dev' into petTarget <opussf>
+* b8e7d1a 2026-01-28 12:38:35 -0800 -  Player's name is used instead of pet's name if pet is targeted. <opussf>

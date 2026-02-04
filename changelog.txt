@@ -1,3 +1,3 @@
-Changes since 2.2.2-wow120000..
+Changes since 2.2.3-wow120000..
 
-* 53b09d3 2026-02-01 04:18:53 -0800 -  (HEAD -> main, tag: 2.2.2-wow120000, origin/main, origin/HEAD) Fixing bug where a pet with a custom name did not trigger %t replacement. <opussf>
+* 6eb6507 2026-02-04 13:49:26 -0800 -  (HEAD -> main, tag: 2.2.3-wow120000, origin/main, origin/dev, origin/HEAD, dev) Fixing a bug where creatureTypeCode is a secretvalue in combat. <opussf>

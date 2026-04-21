@@ -1,9 +1,9 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Critter Emote
 ## Author: OpusSF
 ## X-Contributors: Acidfrost59 (emotes, updates), Fysker (IT)
 ## X-PreviousAuthor: Zompter (original), seegeen00 (previous)
-## Version: 2.2.5-wow120001
+## Version: 2.2.6-wow120005
 ## IconTexture: Interface/Icons/Inv_pet_wingedlion
 ## LoadOnDemand: 0
 ## DefaultState: enabled

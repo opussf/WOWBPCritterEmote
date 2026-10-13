@@ -1,5 +1,3 @@
-Changes since 2.2.9-wow120100..
+Changes since 2.2.10-wow120105..
 
-* 5598c36 2026-08-29 21:49:18 -0700 -  (HEAD -> main, tag: 2.2.9-wow120100, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
-* ef44606 2026-08-29 21:49:03 -0700 -  (dev) Merge branch 'NewPets' into dev <opussf>
-* cb74784 2026-08-29 19:50:23 -0700 -  (NewPets) Updated pet personalities that I could find. <opussf>
+* 809dc8e 2026-10-13 15:43:33 -0700 -  (HEAD -> main, tag: 2.2.10-wow120105, origin/main, origin/HEAD) 120105 update <opussf>

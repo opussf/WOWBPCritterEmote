@@ -1,5 +1,5 @@
-Changes since 2.2.11-wow120105..
+Changes since 2.2.12-wow120105..
 
-* 7b328c6 2026-10-25 15:00:27 -0700 -  (HEAD -> main, tag: 2.2.11-wow120105, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
-* 3abbf6e 2026-10-25 14:59:50 -0700 -  (dev) Merge branch 'NewHolidays' into dev <opussf>
-* ab9fe50 2026-10-25 14:53:24 -0700 -  (NewHolidays) Unix line endings <opussf>
+* 0e36042 2026-10-25 16:29:34 -0700 -  (HEAD -> main, tag: 2.2.12-wow120105, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
+* 9a703e8 2026-10-25 16:29:14 -0700 -  (dev) Merge branch 'NewPets' into dev <opussf>
+* 80a90da 2026-10-25 16:28:48 -0700 -  (origin/NewPets, NewPets) New Aqir pets <opussf>

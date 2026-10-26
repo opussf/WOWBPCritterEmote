@@ -1,5 +1,12 @@
-Changes since 2.2.12-wow120105..
+Changes since 2.2.13-wow120105..
 
-* 0e36042 2026-10-25 16:29:34 -0700 -  (HEAD -> main, tag: 2.2.12-wow120105, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
-* 9a703e8 2026-10-25 16:29:14 -0700 -  (dev) Merge branch 'NewPets' into dev <opussf>
-* 80a90da 2026-10-25 16:28:48 -0700 -  (origin/NewPets, NewPets) New Aqir pets <opussf>
+* 603122d 2026-10-25 17:13:18 -0700 -  (HEAD -> main, tag: 2.2.13-wow120105, origin/main, origin/HEAD) Merge branch 'dev' into main <opussf>
+* bb4732b 2026-10-25 17:12:59 -0700 -  (dev) Merge branch 'NewEmotes' into dev <opussf>
+* 8e41faa 2026-10-25 17:12:18 -0700 -  (origin/NewEmotes, NewEmotes) Unix line endings <opussf>
+* 3e27c23 2026-10-25 17:10:57 -0700 -  Founders's Point nd Razorwind Shores <opussf>
+* 452d9dd 2026-10-25 16:32:09 -0700 -  Merge branch 'dev' into NewEmotes <opussf>
+* ad6dc63 2026-09-14 01:20:21 -0700 -  Merge branch 'dev' into NewEmotes <opussf>
+* d9c44f5 2026-03-17 15:16:39 -0700 -  Merge branch 'dev' into NewEmotes <opussf>
+* bc824f0 2026-03-17 13:55:34 -0700 -  Merge branch 'dev' into NewEmotes <opussf>
+* d039a30 2026-01-27 01:26:43 -0800 -  (morris/NewEmotes) Merge branch 'dev' into NewEmotes <opussf>
+* f9f0d2a 2025-12-22 11:45:55 -0800 -  Neighborhood structures. <opussf>
